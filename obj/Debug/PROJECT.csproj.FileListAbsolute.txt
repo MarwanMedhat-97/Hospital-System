@@ -1,0 +1,92 @@
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\bin\Debug\DBLAB EXAM.exe.config
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\bin\Debug\DBLAB EXAM.exe
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\bin\Debug\DBLAB EXAM.pdb
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Form1.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingEmployees.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Properties.Resources.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB EXAM.exe
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB EXAM.pdb
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingNurses.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingPharmacist.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingRecp.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddClinics.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingHospitalEntities.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Login.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Provided_Functionalities.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Employees_Funcionalties.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Remove_Doctor.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Removing_Employees.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\bin\Debug\DBLAB EXAM.exe.config
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB EXAM.exe
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB EXAM.pdb
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddClinics.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Form1.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingEmployees.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingNurses.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingPharmacist.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingRecp.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Employees_Funcionalties.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Login.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Properties.Resources.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Provided_Functionalities.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Remove_Doctor.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Removing_Employees.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\bin\Debug\DBLAB EXAM.exe
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\bin\Debug\DBLAB EXAM.pdb
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Hospital_Entities_Funcionalties.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.ViewDrugs.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.InsertDrug.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.UpdateDrug.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.PharmacyOption.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Patients.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.View_Patients.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.New_Patient.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Update_Patient.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Department_Options.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.New_Department.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.View_Department.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Remove_Department.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Department_Update.resources
+F:\data base\project data base\Project\DBLAB EXAM\bin\Debug\DBLAB EXAM.exe.config
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB EXAM.exe
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB EXAM.pdb
+F:\data base\project data base\Project\DBLAB EXAM\bin\Debug\DBLAB EXAM.exe
+F:\data base\project data base\Project\DBLAB EXAM\bin\Debug\DBLAB EXAM.pdb
+F:\data base\project data base\Project\DBLAB EXAM\bin\Debug\mscorlib.dll
+F:\data base\project data base\Project\DBLAB EXAM\bin\Debug\normidna.nlp
+F:\data base\project data base\Project\DBLAB EXAM\bin\Debug\normnfc.nlp
+F:\data base\project data base\Project\DBLAB EXAM\bin\Debug\normnfd.nlp
+F:\data base\project data base\Project\DBLAB EXAM\bin\Debug\normnfkc.nlp
+F:\data base\project data base\Project\DBLAB EXAM\bin\Debug\normnfkd.nlp
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddClinics.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Form1.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingEmployees.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingNurses.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingPharmacist.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.AddingRecp.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Department_Options.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Department_Update.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Employees_Funcionalties.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Hospital_Entities_Funcionalties.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.InsertDrug.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Login.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.New_Department.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.New_Patient.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Patients.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.PharmacyOption.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Properties.Resources.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Provided_Functionalities.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Remove_Department.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Remove_Doctor.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Removing_Employees.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Update_Patient.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.UpdateDrug.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.View_Department.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.View_Patients.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\DBLAB_EXAM.ViewDrugs.resources
+F:\data base\project data base\Project\DBLAB EXAM\obj\Debug\PROJECT.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+C:\Users\Haruchika\Desktop\DBLAB EXAM\DBLAB EXAM\bin\Debug\DBLAB EXAM.exe.config
+C:\Users\Haruchika\Desktop\DBLAB EXAM\DBLAB EXAM\bin\Debug\DBLAB EXAM.exe
+C:\Users\Haruchika\Desktop\DBLAB EXAM\DBLAB EXAM\bin\Debug\DBLAB EXAM.pdb
+C:\Users\Haruchika\Desktop\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB EXAM.csprojResolveAssemblyReference.cache
+C:\Users\Haruchika\Desktop\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Properties.Resources.resources
+C:\Users\Haruchika\Desktop\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Form1.resources
+C:\Users\Haruchika\Desktop\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB EXAM.csproj.GenerateResource.Cache
+C:\Users\Haruchika\Desktop\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB EXAM.exe
+C:\Users\Haruchika\Desktop\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB EXAM.pdb
+C:\Users\Haruchika\Desktop\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.GETASSIGNMENT.resources
+C:\Users\Haruchika\Desktop\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.ADDCOURSE.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\bin\Debug\DBLAB EXAM.exe.config
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB EXAM.exe
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB EXAM.pdb
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\bin\Debug\DBLAB EXAM.exe
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\bin\Debug\DBLAB EXAM.pdb
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB EXAM.csprojResolveAssemblyReference.cache
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Form1.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB_EXAM.Properties.Resources.resources
+C:\Users\Haruchika\Desktop\CCEE year 2\DB\DBLAB EXAM\DBLAB EXAM\obj\Debug\DBLAB EXAM.csproj.GenerateResource.Cache
